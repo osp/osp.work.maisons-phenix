@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="dessin1.svg">
+   sodipodi:docname="mokup1.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="327.81147"
-     inkscape:cy="415.25189"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="333.03746"
+     inkscape:cy="375.50643"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,13 +54,6 @@
      id="layer1"
      transform="translate(0,-308.2677)">
     <rect
-       style="fill:#cccccc;stroke:none"
-       id="rect3031-6"
-       width="277.14285"
-       height="391.42856"
-       x="-356.57141"
-       y="672.505" />
-    <rect
        style="fill:#f2f2f2;stroke:none"
        id="rect3031"
        width="277.14285"
@@ -68,7 +61,7 @@
        x="0"
        y="306.64789" />
     <rect
-       style="fill:#ffffff;stroke:#cccccc"
+       style="fill:none;stroke:#cccccc"
        id="rect3043"
        width="236.3757"
        height="139.40105"
@@ -87,53 +80,7 @@
            y="30.926786"
            style="stroke:#000000;fill:#ffffff" /></flowRegion><flowPara
          id="flowPara3051"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin Bold;stroke:#000000;fill:#ffffff;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%">theme:amour + nature:soundscape</flowPara></flowRoot>    <rect
-       style="fill:#ffffff;stroke:#b3b3b3"
-       id="rect3041"
-       width="234.35539"
-       height="26.263966"
-       x="-337.81726"
-       y="688.28082" />
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Bold"
-       x="-328.58374"
-       y="705.758"
-       id="text2993"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan2995"
-         x="-328.58374"
-         y="705.758"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Buenard;-inkscape-font-specification:Buenard">nomdufichier.ogg</tspan></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3026"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;font-family:Cabin;-inkscape-font-specification:Cabin Bold"
-       transform="translate(-354,322.2677)"><flowRegion
-         id="flowRegion3028"><rect
-           id="rect3030"
-           width="229.14285"
-           height="317.42859"
-           x="18.571428"
-           y="409.80878"
-           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:#000000;font-family:Cabin;-inkscape-font-specification:Cabin Bold" /></flowRegion><flowPara
-         id="flowPara3032"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:#000000;font-family:Cabin;-inkscape-font-specification:Cabin Bold">themes:</flowPara><flowPara
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:#000000;font-family:Cabin;-inkscape-font-specification:Cabin Bold"
-         id="flowPara3046">amour</flowPara><flowPara
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:#000000;font-family:Cabin;-inkscape-font-specification:Cabin Bold"
-         id="flowPara3058" /><flowPara
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:#000000;font-family:Cabin;-inkscape-font-specification:Cabin Bold"
-         id="flowPara3050">nature:</flowPara><flowPara
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:#000000;font-family:Cabin;-inkscape-font-specification:Cabin Bold"
-         id="flowPara3052">voix</flowPara><flowPara
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:#000000;font-family:Cabin;-inkscape-font-specification:Cabin Bold"
-         id="flowPara3054">soudscape</flowPara><flowPara
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:#000000;font-family:Cabin;-inkscape-font-specification:Cabin Bold"
-         id="flowPara3056">parole</flowPara><flowPara
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:#000000;font-family:Cabin;-inkscape-font-specification:Cabin Bold"
-         id="flowPara3048" /></flowRoot>    <g
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin Bold;stroke:#000000;fill:#ffffff;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%">theme:amour + nature:soundscape</flowPara></flowRoot>    <g
        id="g3867">
       <rect
          y="400.28693"
@@ -547,18 +494,6 @@
          id="rect3272-8-3-9-8-0-6-8"
          style="color:#000000;fill:none;stroke:#b3b3b3;stroke-width:0.58070081;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;fill-opacity:1;stroke:none;font-family:Dosis;-inkscape-font-specification:Dosis"
-       x="293.8486"
-       y="338.13367"
-       id="text3282-53"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3284-8"
-         x="293.8486"
-         y="338.13367"
-         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;font-family:Dosis;-inkscape-font-specification:Dosis Ultra-Bold">+ box</tspan></text>
     <g
        transform="translate(-279.66072,142.49789)"
        id="g3867-3">
@@ -907,5 +842,77 @@
          x="142.27336"
          y="519.75903"
          style="font-size:9px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;font-family:Dosis;-inkscape-font-specification:Dosis Ultra-Bold">MUTE</tspan></text>
+    <g
+       id="g4054">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3282-53"
+         y="338.24402"
+         x="293.8486"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;fill-opacity:1;stroke:none;font-family:Dosis;-inkscape-font-specification:Dosis"
+         xml:space="preserve"><tspan
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;font-family:Dosis;-inkscape-font-specification:Dosis Ultra-Bold"
+           y="338.24402"
+           x="293.8486"
+           id="tspan3284-8"
+           sodipodi:role="line">+ </tspan></text>
+      <g
+         transform="translate(0,-0.08090119)"
+         id="g4048">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.34200001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 300.09185,335.14568 3.80568,0"
+           id="path3134"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.34200001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 300.09185,337.47219 3.80568,0"
+           id="path3134-1"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.34200001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 300.09185,335.92119 4.34484,0"
+           id="path3134-1-7"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.34200001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 300.09185,336.6967 3.35882,0"
+           id="path3134-1-7-1"
+           inkscape:connector-curvature="0" />
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3282-53-0"
+         y="338.24402"
+         x="313.21207"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;fill-opacity:1;stroke:none;font-family:Dosis;-inkscape-font-specification:Dosis"
+         xml:space="preserve"><tspan
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;font-family:Dosis;-inkscape-font-specification:Dosis Ultra-Bold"
+           y="338.24402"
+           x="313.21207"
+           id="tspan3284-8-5"
+           sodipodi:role="line">+ </tspan></text>
+      <g
+         transform="translate(0,0.64242891)"
+         id="g4029">
+        <rect
+           style="color:#000000;fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect3239"
+           width="3.0935922"
+           height="2.9168153"
+           x="319.28259"
+           y="334.1272" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 319.37098,334.25978 2.91682,2.65165"
+           id="path3241"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 322.2878,334.25978 -2.91682,2.65165"
+           id="path3241-0"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
   </g>
 </svg>
