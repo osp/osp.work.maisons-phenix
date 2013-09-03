@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>calendar</title>
+    <style type="text/css" media="screen">
+    .subtitle {
+        width: 20em;
+
+        color: yellow;
+        /*
+        -webkit-text-stroke: 2px #000000;
+        -webkit-text-fill-color: #FFFF00;
+        */
+        text-shadow: 
+            1px  1px 0 #F00, 
+           -1px -1px 0 #F00, 
+            1px -1px 0 #F00,
+           -1px  1px 0 #F00;
+        font-size: 30px;
+        font-weight: bold;
+    }
+    </style>
+</head>
+
+<body>
+
+<img src="point-06.png" />
+<img src="points-01.png" />
+<img src="points-02.png" />
+<img src="points-03.png" />
+<img src="points-04.png" />
+<img src="points-05.png" />
+<img src="ray-01.png" />
+<img src="ray-02.png" />
+<img src="star-01.png" />
+<img src="star-02.png" />
+<p class="subtitle">comme j’te disais avant j’habitais avec des profs, classe moyenne sup</p>
+
+<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+<script>
+$(function() {
+    $('img').draggable();
+});
+</script>
+</body>
+</html> 

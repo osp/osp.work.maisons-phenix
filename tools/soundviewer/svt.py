@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
  
 # svt.py -- sound visualization tool
 # Copyright (C) 2009 Luis J. Villanueva
